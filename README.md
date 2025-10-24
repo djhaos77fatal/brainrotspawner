@@ -1,0 +1,2 @@
+# brainrotspawner
+Auto-generated repository
